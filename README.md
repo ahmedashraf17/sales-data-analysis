@@ -1,10 +1,10 @@
-# sales-data-analysis-project
+# sales-data-analysis
 
 
 project overview
 
-### merge the 12 months of sales data into one
-### exploare the data
-# clean up the data
-# add some useful columns
-# visualize the data by asking questions
+
+###Applied descriptive data analysis by merging 12 months files of sales data into one
+
+and tried to answer some critcal business questions after setting up some transformations
+
